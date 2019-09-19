@@ -1,0 +1,6 @@
+config.py 
+keys.sh  
+**/.ipynb_checkpoints  
+**/__pycache__
+
+CFRM_522_Final/
